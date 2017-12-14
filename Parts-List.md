@@ -6,7 +6,7 @@ Main Part                 | Sub-Part             | Serial Number        | Commen
 **7.2 V Battery Charger** |                      |                      |
 **AAA Batteries***        |                      |                      |
 **AAA Battery Charger**   |                      |                      |
-**_Cortex_**              |                      |                      |  Motor Port 1 not working
+**_Cortex_**              |                      |                      |  
 **_Joysticks_**           | Main                 |                      |  
 **_Joysticks_**           | Partner              |                      |  
 **_Motors_**              | Motor 1              |                      |   
